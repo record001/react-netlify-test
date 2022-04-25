@@ -5,7 +5,7 @@ export default function Home() {
 
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, saepe?</p>
 
-           
+           <p>ikkinchi</p>
         </div>
     )
 }
