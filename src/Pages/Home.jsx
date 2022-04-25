@@ -3,6 +3,8 @@ export default function Home() {
         <div className="Home">
             <h1>Home</h1>
 
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi, saepe?</p>
+
            
         </div>
     )
